@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useMemo, useState } from "react";
+import  { useMemo, useState } from "react";
 import movies from "@/app/data/movies.json";
 
 import SearchBar from "@/components/SearchBar";
@@ -106,7 +106,7 @@ export default function HomePage() {
       {/* HERO SECTION */}
       <section
         className="
-          bg-gradient-to-r 
+          
           from-gray-200 via-gray-100 to-gray-200
           dark:from-gray-900 dark:via-gray-800 dark:to-gray-900
           rounded-2xl p-8 md:p-12 mb-10 transition-colors

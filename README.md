@@ -5,17 +5,17 @@ The project demonstrates clean UI, fast filtering, programmatic routing, ISR-rea
 ---
 
 ## 🚀 Live Demo  
-👉 **Vercel URL**: _<your deployed link here>_
+👉 **Vercel URL**:  _https://movie-app-bice-nu.vercel.app/_
 
 ---
 
 ## 📦 GitHub Repository  
-👉 **Repo URL**: _<your GitHub repo link here>_
+👉 **Repo URL**:  _https://github.com/Anuragkumar86/Movie-App_
 
 ---
 
 ## 📦 Loom Video Link  
-👉 **Loom Video URL**: _<your GitHub repo link here>_
+👉 **Loom Video URL**: _https://youtu.be/Cloz0jTUYLc_
 
 ## 📊 Dataset
 

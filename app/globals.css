@@ -1,15 +1,15 @@
 @import "tailwindcss";
 
 /* ---- Global resets ---- */
-html, body {
+/* html, body {
   min-height: 100%;
-}
-
+} */
+/* 
 body {
   @apply transition-colors duration-300;
-}
+} */
 
 /* Optional — card utility */
-.card {
+/* .card {
   @apply rounded-xl p-4 shadow-lg bg-white dark:bg-gray-900;
-}
+} */

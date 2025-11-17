@@ -8,14 +8,7 @@ interface SearchBarProps {
   onChange: (value: string) => void;
 }
 
-/**
- * SearchBar
- * A simple controlled input for searching movie titles.
- * - Accessible label
- * - Clean UI
- * - Proper focus ring
- * - Debouncing intentionally NOT added to avoid complexity for assignment
- */
+
 export default function SearchBar({ value, onChange }: SearchBarProps) {
   return (
     <div className="w-full">
